@@ -61,11 +61,11 @@
       </OUTPUTS>
     </LAYOUT>
   </FILTER>
-  <FILTER uid="5" x="0.525" y="0.4778225806451613" useARA="0" uiLastX_Normal="178"
-          uiLastY_Normal="91" uiopen_Normal="1">
+  <FILTER uid="5" x="0.50625" y="0.5241935483870968" useARA="0" uiLastX_Normal="178"
+          uiLastY_Normal="91" uiopen_Normal="0">
     <PLUGIN name="SimpleEQ" format="VST3" category="Fx" manufacturer="yourcompany"
             version="1.0.0" file="C:\Program Files\Common Files\VST3\SimpleEQ.vst3"
-            uniqueId="ee96d42f" isInstrument="0" fileTime="18fa1d3d55f" infoUpdateTime="18fa1e4e13e"
+            uniqueId="ee96d42f" isInstrument="0" fileTime="18fa202b382" infoUpdateTime="18fa20609a6"
             numInputs="2" numOutputs="2" isShell="0" hasARAExtension="0"
             uid="e951815e"/>
     <STATE>191.VMjLgXK....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9XCLt3hKt3hKt3hKt3hYRUUSTEETIckVwTjQisVTTgkdEYjKAQjYPQSPWgUdMcjKAQjct3hdA4hKt3hKt3hKtnTUv.UQAslXuk0UXoWUFE0YQcEV77RRC8Vav8lak4Fc9vyKVMEUy.Ea0cVZtMEcgQWY9..</STATE>
